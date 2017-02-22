@@ -15,4 +15,4 @@ Hex color for hovering: #8282ff
 Hex color for texts: #e6e6fa 
 */
 
-@import url("https://gitcdn.xyz/repo/CurimuChizu/CC-Themes-Copy/master/ReZero.theme.css");
+@import url("https://raw.githubusercontent.com/TG-443/dsf/master/README.css");
